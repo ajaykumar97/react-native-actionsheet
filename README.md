@@ -94,7 +94,7 @@ class Demo extends React.Component {
 
 ### How to redesign style ?
 
-The style of ActionSheet is defined in [lib/styles.js](https://github.com/beefe/react-native-actionsheet/blob/master/lib/styles.js). We can pass the `styles` prop to cover default style. See [Example](https://github.com/beefe/react-native-actionsheet/blob/master/example/app/ExampleB.js#L48) .
+The style of ActionSheet is defined in [lib/styles.js](https://github.com/ajaykumar97/react-native-actionsheet/blob/master/lib/styles.js). We can pass the `styles` prop to cover default style. See [Example](https://github.com/beefe/react-native-actionsheet/blob/master/example/app/ExampleB.js#L48) .
 
 ```javascript
 // example
@@ -117,7 +117,7 @@ const styles = {
 
 ## Props
 
-https://github.com/beefe/react-native-actionsheet/blob/master/lib/options.js
+https://github.com/ajaykumar97/react-native-actionsheet/blob/master/lib/options.js
 
 <table>
     <tr>
