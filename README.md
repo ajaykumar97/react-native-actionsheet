@@ -1,3 +1,5 @@
+## Note: This project is a fork of [react-native-actionsheet](https://github.com/beefe/react-native-actionsheet)
+
 # react-native-actionsheet
 Cross platform ActionSheet. This component implements a custom ActionSheet  and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.
 
@@ -17,9 +19,14 @@ Cross platform ActionSheet. This component implements a custom ActionSheet  and 
 ## Install
 
 ```
-npm install react-native-actionsheet --save
+npm install github:ajaykumar97/react-native-actionsheet#master --save
 ```
-
+ 
+or
+ 
+```
+yarn add github:ajaykumar97/react-native-actionsheet#master
+```
 ## Usage
 
 ```js
